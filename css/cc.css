@@ -1,0 +1,50 @@
+.h{
+    background-color: gray;
+    text-align: center;
+    font-size: 30px;
+}
+.left{
+    margin-top: 5px;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    font-size: x-large;
+    width: 505px;
+}
+.middle{
+    margin-top: 5px;
+    float: left;
+    background-color: blue;
+    text-align: center;
+    font-size: x-large;
+    width: 510px;
+}
+.right{
+    margin-top: 5px;
+    float: left;
+    background-color: brown;
+    text-align: center;
+    font-size: x-large;
+    width: 505px;
+}
+.full{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: x-large;
+    width: 500px;
+    height: 200px;
+}
+.division{
+    background-color: blue;
+    width: 300px;
+    float: right;
+}
+.foot{
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 300px;
+}
